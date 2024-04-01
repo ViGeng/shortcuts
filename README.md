@@ -13,7 +13,7 @@ Welcome to contribute! 🎉
 
 | Shortcut Name               | Description | Author                              | Version | iCloud Link                                                                      | File Link                                                   | Last Updated |
 | --------------------------- | ----------- | ----------------------------------- | ------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------ |
-| Get Hash from Selected File | as title    | [@ViGeng](https://github.com/ViGeng) | 1.0     | [iCloud Link](https://www.icloud.com/shortcuts/2d7c4caee1e043109c187fa757017e24) | [File Link](shortcuts/Get_Hash_from_Selected_File.shortcut) | 2024-04-01   |
+| Get Compare Hash from Selected File | Automatically compare with clipboard's hash/file with current selected file    | [@ViGeng](https://github.com/ViGeng) | 2.0     | [iCloud Link](https://www.icloud.com/shortcuts/2d7c4caee1e043109c187fa757017e24) | [File Link](shortcuts/Get_Compare_Hash_from_Selected_File.shortcut) | 2024-04-01   |
 | Save Screenshot to Photo Album | screenshot and save to album   | [@ViGeng](https://github.com/ViGeng) | 1.0     | [iCloud Link](https://www.icloud.com/shortcuts/67aa8b84140242e082fccfe02cc9c033) | [File Link](shortcuts/Save_Screenshot_to_Photo_Album.shortcut) | 2024-04-01   |
 | Extract Subject from Clipboard | screenshot and save to album   | [@ViGeng](https://github.com/ViGeng) | 1.0     | [iCloud Link](https://www.icloud.com/shortcuts/f5e8c7c837274576846e5c0b05653a25) | [File Link](shortcuts/Extract_Subject_from_Clipboard.shortcut) | 2024-04-01   |
 
